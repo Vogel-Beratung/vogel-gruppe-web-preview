@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /styleguide
+
+Sitemap: https://vogel-beratung.github.io/vogel-gruppe-web-preview/limes/sitemap-index.xml
